@@ -24,6 +24,12 @@
 
 ---
 
+## 🎥 [Système de Surveillance Intelligent – Arduino Yun & Python](https://github.com/momonaim/mst-rsi-pfa-motion-alert-system)
+🔹 Système complet de détection de mouvement avec Arduino Yun, capteur PIR et serveur Python (Flask + OpenCV).  
+🔹 Capture photo/vidéo, alerte immédiate (LED + buzzer), streaming en direct, et envoi automatique d’e-mail avec pièces jointes.  
+
+---
+
 ## 📦 [Projet Java & Spring Boot – Gestion de Flotte et Catalogue](https://github.com/momonaim/mst-rsi-jee-taf)
 🔹 Partie 1 : Application **Java SE** orientée objet pour gérer une flotte de véhicules connectés (exceptions personnalisées, collections, Streams).  
 🔹 Partie 2 : Application **Spring Boot + Thymeleaf** pour la gestion d’un catalogue commercial (produits, marques, catégories).  
