@@ -24,6 +24,12 @@
 
 ---
 
+## 📦 [Projet Java & Spring Boot – Gestion de Flotte et Catalogue](https://github.com/momonaim/mst-rsi-jee-taf)
+🔹 Partie 1 : Application **Java SE** orientée objet pour gérer une flotte de véhicules connectés (exceptions personnalisées, collections, Streams).  
+🔹 Partie 2 : Application **Spring Boot + Thymeleaf** pour la gestion d’un catalogue commercial (produits, marques, catégories).  
+
+---
+
 ## 💼 [Système de gestion de recrutement - JS, PHP, MySQL](https://github.com/momonaim/webp)  
 🔹 Développement d'une **plateforme complète** pour le suivi des candidatures et du processus de recrutement.  
 🔹 Gestion avancée des profils, candidatures et statistiques RH.  
