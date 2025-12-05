@@ -18,6 +18,12 @@
 
 ---
 
+## 🎓 [Full Stack Project - Exploration du développement web ](https://github.com/momonaim/mst-rsi-web-final-project)
+🔹 Projet complet combinant un **backend API Laravel** et un **frontend Next.js** pour la gestion des étudiants du Master RSI.  
+🔹 Fonctionnalités : gestion des étudiants (CRUD), stockage d’images, authentification (Sanctum), géolocalisation, statistiques (ChartJS) et quiz interactifs.  
+
+---
+
 ## 💼 [Système de gestion de recrutement - JS, PHP, MySQL](https://github.com/momonaim/webp)  
 🔹 Développement d'une **plateforme complète** pour le suivi des candidatures et du processus de recrutement.  
 🔹 Gestion avancée des profils, candidatures et statistiques RH.  
